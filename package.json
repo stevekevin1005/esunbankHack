@@ -1,0 +1,26 @@
+{
+  "name": "esunbank",
+  "version": "1.0.0",
+  "description": "push hell",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevekevin1005/esunbankHack.git"
+  },
+  "keywords": [
+    "hackthon"
+  ],
+  "author": "steve spicdev j205617686",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevekevin1005/esunbankHack/issues"
+  },
+  "homepage": "https://github.com/stevekevin1005/esunbankHack#readme"
+}
